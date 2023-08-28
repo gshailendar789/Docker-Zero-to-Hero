@@ -338,7 +338,7 @@ docker run -it abhishekf5/my-first-docker-image
 Output
 
 ```
-Hello World
+Hello World:
 ```
 
 ### Push the Image to DockerHub and share it with the world
